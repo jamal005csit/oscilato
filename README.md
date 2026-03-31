@@ -2,9 +2,6 @@
 I was supposed to be studying because I have an operating system exam in 6 hours, but instead i made the oscilato that takes any picture and change it to a sound ( just be careful ) 
 
 
-<img width="1535" height="637" alt="Screenshot 2026-03-30 212932" src="https://github.com/user-attachments/assets/8124cf6f-5a9d-4070-af8a-a736d412a9f3" />
-
-
 [README.md](https://github.com/user-attachments/files/26364921/README.md)
 # Image Sonification — PoC
 
